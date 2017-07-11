@@ -1,0 +1,39 @@
+{
+    "AlarmStatus":true,
+    "show_video":true,
+  
+    "min_upload_seconds": 15.0,
+    "min_motion_frames": 3,
+    "camera_warmup_time": 2.5,
+    "delta_thresh": 5,
+    "resolution": [640, 480],
+
+    "fps": 30,
+    "min_area": 2000,
+    "max_area": 200000,
+    
+    "ISO":0,
+    "ISO_MAX":8,
+    
+    "setCon":100,
+    "setCon_MAX":200,
+    
+    "setBright":50,
+    "setBright_MAX":100,
+    
+    "setSharp":0,
+    "setSharp_MAX":100,
+
+    "setSat":50,
+    "setSat_MAX":100,
+
+    "setExpcomp":17,
+    "setExpcomp_MAX":50,
+
+    "setMeter":4,
+    "setMeter_MAX":4,
+
+    "shutSpeed":15000,
+    "shutSpeed_MAX":50000
+}
+

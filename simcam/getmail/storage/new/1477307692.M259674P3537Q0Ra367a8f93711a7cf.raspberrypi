@@ -1,0 +1,21 @@
+Return-Path: <fwcctv1911@gmail.com>
+Delivered-To: unknown
+Received: from imap.gmail.com (74.125.199.109:993) by raspberrypi with
+  IMAP4-SSL; 24 Oct 2016 11:14:52 -0000
+Bcc: fwcctv1911@gmail.com
+Received: from raspberrypi (cpe-142-129-134-49.socal.res.rr.com. [142.129.134.49])
+        by smtp.gmail.com with ESMTPSA id d142sm24614505pfd.33.2016.10.24.04.14.46
+        for <fwcctv1911@gmail.com>
+        (version=TLS1 cipher=AES128-SHA bits=128/128);
+        Mon, 24 Oct 2016 04:14:46 -0700 (PDT)
+Message-ID: <580ded26.941d620a.90a45.d61e@mx.google.com>
+From: fwcctv1911@gmail.com
+X-Google-Original-From: pi@raspberrypi
+Received: by raspberrypi (sSMTP sendmail emulation); Mon, 24 Oct 2016 04:14:45 -0700
+Date: Mon, 24 Oct 2016 04:14:45 -0700
+Subject: ALERT_FROM_RPI3. Mon Oct 24 04:14:45 PDT 2016
+X-getmail-retrieved-from-mailbox: BAD APP/RPI3
+X-GMAIL-LABELS: =?utf-8?b?IlxcU2VudCI=?=
+X-GMAIL-THRID: =?utf-8?q?1549069385581500233?=
+X-GMAIL-MSGID: =?utf-8?q?1549069385581500233?=
+

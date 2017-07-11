@@ -1,0 +1,15 @@
+[retriever]
+type = SimpleIMAPSSLRetriever
+server = imap.gmail.com
+username = fwcctv1911@gmail.com
+password = asdzxc1234!!
+port = 993
+mailboxes = ("BAD APP/RPI3",)
+
+[destination]
+type = Maildir
+path = $GETMAILPATH/storage/
+
+[options]
+read_all = False
+message_log = $GETMAILPATH/config/log
